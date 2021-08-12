@@ -13,7 +13,7 @@ const CONFIG = {
     btnNo: 'Hông, anh nhớ "girl next u" 😗😗😗',
     question:'Vì sao anh lại nhớ em dợoooo 🥺🥺🥺',
     btnReply: 'Gửi cho em nà 😝😝😝',
-    reply: 'Vì em chỉ nhớ mình anh thôiiii 😘😘😘',
+    reply: 'Vì anh chỉ nhớ mình em thôiiii 😘😘😘',
     mess: 'Em biết mà, hihi 😚😚😚',
     messDesc: 'Vậy thì hẹn hò nhau đi chứ còn chờ chi nữa:))',
     btnAccept: 'Dạ. Yêu emmmmmmm 🙆🙆🙆',
