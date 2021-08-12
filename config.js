@@ -14,7 +14,7 @@ const CONFIG = {
     question:'Vì sao anh lại nhớ em dợoooo 🥺🥺🥺',
     btnReply: 'Gửi cho em nà 😝😝😝',
     reply: 'Vì anh chỉ nhớ mình em thôiiii 😘😘😘',
-    mess: 'Em biết mà, hihi 😚😚😚',
+    mess: 'Em biết mà hí hí hí 😚😚😚',
     messDesc: 'Vậy thì hẹn hò nhau đi chứ còn chờ chi nữa:))',
     btnAccept: 'Dạ. Yêu emmmmmmm 🙆🙆🙆',
     messLink: 'http://fb.com' //messages/t/100004396470240
