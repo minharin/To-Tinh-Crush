@@ -1,9 +1,9 @@
 const CONFIG = {
     introTitle: 'Này đầu đất',
     introDesc: `Em thấy nhớ anh,
-    Em thấy rất nhớ anh thôi
-    Ngày đêm cứ loay hoay
-    Trong suy nghĩ về anh
+    Em thấy rất nhớ anh thôi.
+    Ngày đêm cứ loay hoay.
+    Trong suy nghĩ về anh.
     Anh có nhớ em không???
     Anh có thấy nhớ em không???`,
     btnIntro: 'Hic hic 🥺🥺🥺',
@@ -13,7 +13,7 @@ const CONFIG = {
     btnNo: 'Hông, anh nhớ "girl next u" 😗😗😗',
     question:'Vì sao anh lại nhớ em dợoooo 🥺🥺🥺',
     btnReply: 'Gửi cho em nà 😝😝😝',
-    reply: 'Vì anh chỉ nhớ mình em thôiiii 😘😘😘',
+    reply: 'Vì anh chỉ nhớ mình Tròn thôiiii 😘😘😘',
     mess: 'Em biết mà hí hí hí 😚😚😚',
     messDesc: 'Vậy thì hẹn hò nhau đi chứ còn chờ chi nữa:))',
     btnAccept: 'Dạ. Yêu emmmmmmm 🙆🙆🙆',
